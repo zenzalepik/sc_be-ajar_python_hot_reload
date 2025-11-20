@@ -45,7 +45,7 @@ def main():
         print(f"Error: File {script_path} tidak ditemukan!")
         sys.exit(1)
     
-    print(f"👀 Watching for changes in Python files...")
+    print(f"🔍 Watching for changes in Python files...")
     print(f"📱 Running: {script_path}")
     print("⏹️  Press Ctrl+C to stop\n")
     

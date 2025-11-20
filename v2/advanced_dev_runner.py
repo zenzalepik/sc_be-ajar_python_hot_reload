@@ -28,7 +28,7 @@ class AdvancedDevRunner:
         print(f"📁 Watching: {self.script_path}")
         print(f"🕒 Uptime: {time.strftime('%H:%M:%S')}")
         print(f"🔢 Restarts: {self.restart_count}")
-        print("👀 Monitoring all .py files in current directory")
+        print("🔍 Monitoring all .py files in current directory")
         print("⏹️  Press Ctrl+C to stop")
         print("-" * 50)
     
